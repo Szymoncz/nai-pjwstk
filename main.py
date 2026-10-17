@@ -1,7 +1,7 @@
 """Gobblet 3x3: uproszczona gra turowa dla dwóch graczy.
 
 Zasady referencyjne: https://blueorangegames.eu/en/games/gobblet/
-Autorzy: [wpisz imiona i nazwiska członków zespołu]
+Autorzy: Szymon Czudowski, Radosław Krawiec
 Przygotowanie i uruchomienie: zobacz README.md.
 
 Wariant projektu: plansza 3x3, po dwa pionki każdego z trzech rozmiarów na
